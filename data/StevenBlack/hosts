@@ -1152,8 +1152,6 @@
 0.0.0.0 www.hrtya.com
 0.0.0.0 greatmacsoft.tech
 0.0.0.0 adscan.yelabapp.com
-0.0.0.0 myfreecams.com
-0.0.0.0 www.myfreecams.com
 0.0.0.0 icloud.com-locations.in
 0.0.0.0 www.icloud.com-locations.in
 0.0.0.0 cradver.livejasmin.com
@@ -1239,5 +1237,8 @@
 0.0.0.0 castoola.com
 0.0.0.0 castoola.tv.lan
 
-# Jodel APP 
+# Jodel APP
 0.0.0.0 analytics.ext.go-tellm.com
+
+# Ubiquity
+0.0.0.0 trace.svc.ui.com
