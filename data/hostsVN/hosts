@@ -1,6 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 Oct 2019 11:54 UTC+7
-# Blocked: 1,120 domains
+# Last modified: 29 Dec 2019 21:36 UTC+7
+# Version: 1912292136
+# Blocked: 1,263 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
 # Github: https://github.com/bigdargon/hostsVN/
@@ -359,6 +360,7 @@
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
+0.0.0.0 shop.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
@@ -571,6 +573,11 @@
 0.0.0.0 sale.dsmartvietnam.com
 0.0.0.0 landingpagelagi.vn
 0.0.0.0 www.landingpagelagi.vn
+0.0.0.0 ladipage.com
+0.0.0.0 api.ladipage.com
+0.0.0.0 builder.ladipage.com
+0.0.0.0 dns.ladipage.com
+0.0.0.0 la.ladipage.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -881,6 +888,97 @@
 0.0.0.0 publishers.adasiaholdings.com
 0.0.0.0 tags.adasiaholdings.com
 0.0.0.0 www.adasiaholdings.com
+#[aiservice.vn]
+0.0.0.0 aiservice.vn
+0.0.0.0 boxpr.aiservice.vn
+0.0.0.0 news.aiservice.vn
+0.0.0.0 newstesting.aiservice.vn
+0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 ntimg.aiservice.vn
+0.0.0.0 recsys.aiservice.vn
+0.0.0.0 snews.aiservice.vn
+#[adsplay]
+0.0.0.0 admin.adsplay.net
+0.0.0.0 adsplay.net
+0.0.0.0 d.adsplay.net
+0.0.0.0 d1.adsplay.net
+0.0.0.0 d2.adsplay.net
+0.0.0.0 d3.adsplay.net
+0.0.0.0 d4.adsplay.net
+0.0.0.0 d5.adsplay.net
+0.0.0.0 d6.adsplay.net
+0.0.0.0 engineering.adsplay.net
+0.0.0.0 id.adsplay.net
+0.0.0.0 log.adsplay.net
+0.0.0.0 log1.adsplay.net
+0.0.0.0 log2.adsplay.net
+0.0.0.0 log3.adsplay.net
+0.0.0.0 log4.adsplay.net
+0.0.0.0 report.adsplay.net
+0.0.0.0 st.adsplay.net
+0.0.0.0 static.adsplay.net
+0.0.0.0 www.adsplay.net
+#[yoads.net]
+0.0.0.0 yoads.net
+0.0.0.0 push.yoads.net
+0.0.0.0 push2.yoads.net
+0.0.0.0 www.yoads.net
+0.0.0.0 yoads.network
+#[adsplay.xyz]
+0.0.0.0 a.adsplay.xyz
+0.0.0.0 a1.adsplay.xyz
+0.0.0.0 a3.adsplay.xyz
+0.0.0.0 a4.adsplay.xyz
+0.0.0.0 admin.adsplay.xyz
+0.0.0.0 adsplay.xyz
+0.0.0.0 api.adsplay.xyz
+0.0.0.0 api4report.adsplay.xyz
+0.0.0.0 cdn.adsplay.xyz
+0.0.0.0 cp.adsplay.xyz
+0.0.0.0 cp1.adsplay.xyz
+0.0.0.0 cpd.adsplay.xyz
+0.0.0.0 d.adsplay.xyz
+0.0.0.0 d3.adsplay.xyz
+0.0.0.0 d6.adsplay.xyz
+0.0.0.0 d7.adsplay.xyz
+0.0.0.0 gw01.adsplay.xyz
+0.0.0.0 id.adsplay.xyz
+0.0.0.0 ingress.adsplay.xyz
+0.0.0.0 log.adsplay.xyz
+0.0.0.0 log3.adsplay.xyz
+0.0.0.0 log7.adsplay.xyz
+0.0.0.0 omo.adsplay.xyz
+0.0.0.0 report.adsplay.xyz
+0.0.0.0 sdk.adsplay.xyz
+0.0.0.0 sony.adsplay.xyz
+0.0.0.0 sony1.adsplay.xyz
+0.0.0.0 wifi.adsplay.xyz
+0.0.0.0 wifi-api.adsplay.xyz
+0.0.0.0 wifi-api1.adsplay.xyz
+0.0.0.0 wifi-api2.adsplay.xyz
+0.0.0.0 wifi-api3.adsplay.xyz
+0.0.0.0 wifi-api4.adsplay.xyz
+#[viam.com.vn]
+0.0.0.0 hc.viam.com.vn
+0.0.0.0 viam.com.vn
+0.0.0.0 www.viam.com.vn
+#[vads.vn]
+0.0.0.0 baogia.vads.vn
+0.0.0.0 images.vads.vn
+0.0.0.0 vads.vn
+0.0.0.0 www.vads.vn
+#[vads.net.vn]
+0.0.0.0 client.vads.net.vn
+0.0.0.0 log.vads.net.vn
+0.0.0.0 vads.net.vn
+0.0.0.0 www.vads.net.vn
+#[uniad.vn]
+0.0.0.0 click.uniad.vn
+0.0.0.0 pub.uniad.vn
+0.0.0.0 publisher.uniad.vn
+0.0.0.0 uniad.vn
+0.0.0.0 www.uniad.vn
+0.0.0.0 zone.uniad.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -889,11 +987,13 @@
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.mwork.vn
+0.0.0.0 ad.sunflower.vn
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
+0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 adfox.vn
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
@@ -901,9 +1001,12 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.careerbuilder.vn
+0.0.0.0 ads.fptplay.net.vn
 0.0.0.0 ads.home.vn
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.itsgroup.vn
+0.0.0.0 ads.khoahocdoisong.vn
+0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
@@ -917,23 +1020,25 @@
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
 0.0.0.0 amobi.vn
+0.0.0.0 api.nas.nct.vn
 0.0.0.0 apinas.nct.vn
 0.0.0.0 banner.5giay.vn
+0.0.0.0 bgadx.com
 0.0.0.0 clevernet.vn
-0.0.0.0 click.uniad.vn
 0.0.0.0 click.xdeal.vn
-0.0.0.0 client.vads.net.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 cms.vinaads.vn
+0.0.0.0 core.vnecdn.com
+0.0.0.0 cpx.vnecdn.com
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.vungtv.com
 0.0.0.0 deltago.com
 0.0.0.0 dev.mobilead.vn
+0.0.0.0 dt.vnecdn.com
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
-0.0.0.0 imgraovat.vnecdn.net
-0.0.0.0 lrc.nct.nixcdn.com
+0.0.0.0 go.vnecdn.com
 0.0.0.0 m.clevernet.vn
 0.0.0.0 m.mobilead.vn
 0.0.0.0 mepuzz.com
@@ -948,16 +1053,16 @@
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
+0.0.0.0 quangcao247.com.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stc-nas.nixcdn.com
+0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn
-0.0.0.0 uniad.vn
+0.0.0.0 uniad.phimmoi.net
 0.0.0.0 upfile16.mediaphim.com
-0.0.0.0 vads.net.vn
-0.0.0.0 vads.vn
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
@@ -968,11 +1073,11 @@
 0.0.0.0 www.microad.vn
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
-0.0.0.0 zone.uniad.vn
 # --- Block trackingVN ---
 0.0.0.0 alexajstrack.com
 0.0.0.0 amcdn.vn
 0.0.0.0 an.dongphim.net
+0.0.0.0 an.xemvtv.net
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
@@ -981,11 +1086,12 @@
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
 0.0.0.0 deqik.com
+0.0.0.0 dt.tuoitre.vn
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 fbuser.ovp.vn
-0.0.0.0 hc.viam.com.vn
 0.0.0.0 hostmaster.trending.vn
 0.0.0.0 log.anninhthudo.vn
+0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.giaoduc.net.vn
@@ -1001,7 +1107,6 @@
 0.0.0.0 logging.galaxypub.vn
 0.0.0.0 logging.phunuonline.com.vn
 0.0.0.0 logsbin.dantri.com.vn
-0.0.0.0 mail.viam.com.vn
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
@@ -1027,14 +1132,12 @@
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
-0.0.0.0 viam.com.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 widget.nhaccuatui.com
 0.0.0.0 www.trending.vn
-0.0.0.0 www.viam.com.vn
 # --- Block betVN ---
 0.0.0.0 11bet.com
 0.0.0.0 lucky88.com
@@ -1175,6 +1278,55 @@
 0.0.0.0 z2.zbet.com
 0.0.0.0 z3.zbet.com
 0.0.0.0 www.zbet.com
+0.0.0.0 lucky88.net
+0.0.0.0 fbw.lucky88.net
+0.0.0.0 img.lucky88.net
+0.0.0.0 m.lucky88.net
+0.0.0.0 mkt.lucky88.net
+0.0.0.0 www.lucky88.net
+0.0.0.0 zo.game
+0.0.0.0 lp.zo.game
+0.0.0.0 web.zo.game
+0.0.0.0 nhat.game
+0.0.0.0 qc.nhat.game
+0.0.0.0 v8.club
+0.0.0.0 dl.v8.club
+0.0.0.0 mibet88.com
+0.0.0.0 click.mibet88.com
+0.0.0.0 m.mibet88.com
+0.0.0.0 qc.mibet88.com
+0.0.0.0 www.mibet88.com
+0.0.0.0 go88.com
+0.0.0.0 api2-gateway.go88.com
+0.0.0.0 dangky.go88.com
+0.0.0.0 pm.go88.com
+0.0.0.0 tai.go88.com
+0.0.0.0 www.go88.com
+0.0.0.0 388bet.vip
+0.0.0.0 images.388bet.vip
+0.0.0.0 m.388bet.vip
+0.0.0.0 ms.388bet.vip
+0.0.0.0 s.388bet.vip
+0.0.0.0 jbovn.com
+0.0.0.0 gateway.jbovn.com
+0.0.0.0 gatewayvn.jbovn.com
+0.0.0.0 www.jbovn.com
+0.0.0.0 one88.vn
+0.0.0.0 vietbet.eu
+0.0.0.0 affiliates.vietbet.eu
+0.0.0.0 assets.vietbet.eu
+0.0.0.0 bonus.vietbet.eu
+0.0.0.0 cashier.vietbet.eu
+0.0.0.0 download.vietbet.eu
+0.0.0.0 lbultra.vietbet.eu
+0.0.0.0 lines.vietbet.eu
+0.0.0.0 mobi.vietbet.eu
+0.0.0.0 mobile-check.vietbet.eu
+0.0.0.0 popups.vietbet.eu
+0.0.0.0 vig.vietbet.eu
+0.0.0.0 wager.vietbet.eu
+0.0.0.0 webdev.vietbet.eu
+0.0.0.0 www.vietbet.eu
 # --- Block scamVN ---
 0.0.0.0 fuckbookvietnam.com
 0.0.0.0 www.fuckbookvietnam.com
