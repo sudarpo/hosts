@@ -1,10 +1,10 @@
 # Title: hostsVN
-# Last modified: 14 Feb 2020 09:32 UTC+7
-# Version: 2002140932
-# Blocked: 1,070 domains
+# Last modified: 25 Feb 2020 11:26 UTC+7
+# Version: 2002251126
+# Blocked: 1,048 domains
 # Only include advertisers in Vietnam
 # Home: https://bigdargon.github.io/hostsVN/
-# Github: https://github.com/bigdargon/hostsVN/
+# GitHub: https://github.com/bigdargon/hostsVN
 # Report issues: https://github.com/bigdargon/hostsVN/issues
 # Download: https://github.com/bigdargon/hostsVN/raw/master/option/hosts-VN
 #
@@ -397,33 +397,6 @@
 0.0.0.0 www.vietad.vn
 0.0.0.0 z.vietad.vn
 0.0.0.0 zone.vietad.vn
-#[accesstrade]
-0.0.0.0 academy.accesstrade.vn
-0.0.0.0 accesstrade.vn
-0.0.0.0 ad.accesstrade.vn
-0.0.0.0 api.accesstrade.vn
-0.0.0.0 campaign.accesstrade.vn
-0.0.0.0 cdn.accesstrade.vn
-0.0.0.0 click.accesstrade.vn
-0.0.0.0 cv.accesstrade.vn
-0.0.0.0 dangky.accesstrade.vn
-0.0.0.0 docs.accesstrade.vn
-0.0.0.0 duatop.accesstrade.vn
-0.0.0.0 fast.accesstrade.vn
-0.0.0.0 forum.accesstrade.vn
-0.0.0.0 imp.accesstrade.vn
-0.0.0.0 lotte.accesstrade.vn
-0.0.0.0 mascot.accesstrade.vn
-0.0.0.0 member.accesstrade.vn
-0.0.0.0 partner.accesstrade.vn
-0.0.0.0 restream.accesstrade.vn
-0.0.0.0 static.accesstrade.vn
-0.0.0.0 superbox.accesstrade.vn
-0.0.0.0 track.accesstrade.vn
-0.0.0.0 tuyendung.accesstrade.vn
-0.0.0.0 www.accesstrade.vn
-0.0.0.0 accesstrade.com.vn
-0.0.0.0 click.accesstrade.com.vn
 #[anthill]
 0.0.0.0 a.anthill.vn
 0.0.0.0 anthill.vn
@@ -992,6 +965,7 @@
 0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.mwork.vn
 0.0.0.0 ad.sunflower.vn
@@ -1117,6 +1091,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.srv.vietnamnet.vn
@@ -1143,3 +1118,5 @@
 0.0.0.0 sukientraogiaizalo.com
 0.0.0.0 quangcaotructuyen247.com
 0.0.0.0 www.quangcaotructuyen247.com
+0.0.0.0 phone-notification.com
+0.0.0.0 hashearog.com
