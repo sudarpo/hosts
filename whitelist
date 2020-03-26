@@ -1,0 +1,14 @@
+# Domains added below will be ignored, For example:
+# SC-IGNORE-LIST
+
+data.microsoft.com
+telemetry.microsoft.com
+smartscreen.microsoft.com
+officeapps.live.com
+aria.microsoft.com
+
+en25.com
+whatsapp.com
+whatsapp.net
+
+# SC-IGNORE-LIST

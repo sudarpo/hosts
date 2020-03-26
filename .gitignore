@@ -2,7 +2,7 @@
 *.iml
 myhosts
 blacklist
-whitelist
+# whitelist
 readmeData.json
 hosts-*
 /web.config
