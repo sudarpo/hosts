@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 24 Mar 2020 18:42:58 GMT
-# entries:        3274
+# last updated:   Thu, 02 Apr 2020 09:04:06 GMT
+# entries:        3275
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 02 Apr 2000 00:00:00
+# start date:    Sun, 09 Apr 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -397,7 +397,6 @@
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
-0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bluesq.com
 0.0.0.0 ads.bonniercorp.com
@@ -866,7 +865,6 @@
 0.0.0.0 adverty.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adview.com
-0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
@@ -1695,10 +1693,10 @@
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
+0.0.0.0 fukc69xo.us
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 funklicks.com
-0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
@@ -1742,7 +1740,6 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
@@ -1807,10 +1804,10 @@
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
+0.0.0.0 hitttenevtanin.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
-0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
@@ -2071,6 +2068,7 @@
 0.0.0.0 m6r.eu
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
+0.0.0.0 madcpms.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 mads.cnet.com
 0.0.0.0 madvertise.de
@@ -2224,7 +2222,6 @@
 0.0.0.0 mystat.pl
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 mytop-in.net
-0.0.0.0 mytrafficads.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
@@ -2372,6 +2369,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
+0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
@@ -2942,6 +2940,7 @@
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
 0.0.0.0 theclickads.com
+0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
 0.0.0.0 thinkablerice.com
 0.0.0.0 thirdrespect.com
@@ -3028,6 +3027,7 @@
 0.0.0.0 tracking42.com
 0.0.0.0 trackingfestival.com
 0.0.0.0 trackingsoft.com
+0.0.0.0 trackmysales.com
 0.0.0.0 trackuhub.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
@@ -3062,6 +3062,7 @@
 0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
 0.0.0.0 trix.net
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
 0.0.0.0 trknths.com
