@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Apr 2020 14:23 UTC+7
-# Version: 2004031423
-# Blocked: 1,187 domains
+# Last modified: 11 Apr 2020 16:55 UTC+7
+# Version: 2004111655
+# Blocked: 1,254 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -585,24 +585,20 @@
 #[ladipage]
 0.0.0.0 api.ladipage.vn
 0.0.0.0 builder.ladipage.vn
-0.0.0.0 dns.ladipage.vn
 0.0.0.0 doitac.ladipage.vn
 0.0.0.0 ladipage.vn
 0.0.0.0 ssl.ladipage.vn
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 www.ladipage.vn
+#[ladipage.net]
 0.0.0.0 ladipage.net
 0.0.0.0 static.ladipage.net
-0.0.0.0 dsmartvietnam.com
-0.0.0.0 sale.dsmartvietnam.com
-0.0.0.0 landingpagelagi.vn
-0.0.0.0 www.landingpagelagi.vn
-0.0.0.0 ladipage.com
+#[ladipage.com]
 0.0.0.0 api.ladipage.com
 0.0.0.0 builder.ladipage.com
-0.0.0.0 dns.ladipage.com
 0.0.0.0 la.ladipage.com
+0.0.0.0 ladipage.com
 #[ezimar.com]
 0.0.0.0 caohavan.ezimar.com
 0.0.0.0 ezdns.ezimar.com
@@ -1092,6 +1088,72 @@
 0.0.0.0 media5.adrealclick.com
 0.0.0.0 s.adrealclick.com
 0.0.0.0 www.adrealclick.com
+#[cdnstoremedia.com]
+0.0.0.0 cdnstoremedia.com
+0.0.0.0 static.cdnstoremedia.com
+0.0.0.0 vp.cdnstoremedia.com
+#[adfly.vn]
+0.0.0.0 adfly.vn
+0.0.0.0 api.adfly.vn
+0.0.0.0 www.adfly.vn
+#[mclick.mobi]
+0.0.0.0 aff.mclick.mobi
+0.0.0.0 cdn.mclick.mobi
+0.0.0.0 cloudfront.mclick.mobi
+0.0.0.0 cpa-tracking.mclick.mobi
+0.0.0.0 down.us2.mclick.mobi
+0.0.0.0 down140.mclick.mobi
+0.0.0.0 down141.mclick.mobi
+0.0.0.0 download.mclick.mobi
+0.0.0.0 mclick.mobi
+0.0.0.0 script.mclick.mobi
+0.0.0.0 static.download.mclick.mobi
+0.0.0.0 track.mclick.mobi
+0.0.0.0 www.mclick.mobi
+#[adflex.vn]
+0.0.0.0 adflex.vn
+0.0.0.0 ads.adflex.vn
+0.0.0.0 adv.adflex.vn
+0.0.0.0 aff.adflex.vn
+0.0.0.0 ap.adflex.vn
+0.0.0.0 apk.adflex.vn
+0.0.0.0 cdn.adflex.vn
+0.0.0.0 cdn2.adflex.vn
+0.0.0.0 cloudfront.adflex.vn
+0.0.0.0 cpi.adflex.vn
+0.0.0.0 cpo.adflex.vn
+0.0.0.0 dev.adflex.vn
+0.0.0.0 dn.adflex.vn
+0.0.0.0 ecm.adflex.vn
+0.0.0.0 ecn.adflex.vn
+0.0.0.0 image.static.adflex.vn
+0.0.0.0 image3.static.adflex.vn
+0.0.0.0 image-static.adflex.vn
+0.0.0.0 kiemtien.adflex.vn
+0.0.0.0 log.adflex.vn
+0.0.0.0 mediation.adflex.vn
+0.0.0.0 pi.adflex.vn
+0.0.0.0 po.adflex.vn
+0.0.0.0 pub.adflex.vn
+0.0.0.0 schemas.adflex.vn
+0.0.0.0 sdk.adflex.vn
+0.0.0.0 static2.adflex.vn
+0.0.0.0 status.adflex.vn
+0.0.0.0 status-cpo.adflex.vn
+0.0.0.0 tmp.adflex.vn
+0.0.0.0 track.adflex.vn
+0.0.0.0 tracking.adflex.vn
+0.0.0.0 update.adflex.vn
+0.0.0.0 v2.api.adflex.vn
+0.0.0.0 www.adflex.vn
+#[yeah1media.vn]
+0.0.0.0 delivery.yeah1media.vn
+0.0.0.0 gallery.yeah1media.vn
+0.0.0.0 log.yeah1media.vn
+0.0.0.0 media.yeah1media.vn
+0.0.0.0 static.yeah1media.vn
+0.0.0.0 system.yeah1media.vn
+0.0.0.0 yeah1media.vn
 # --- Block adsVN ---
 0.0.0.0 123c.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -1123,11 +1185,14 @@
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.tinmoi.vn
+0.0.0.0 ads.vkool.info
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
+0.0.0.0 adsweb.vn
 0.0.0.0 adt.com.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adx.kul.vn
@@ -1142,6 +1207,7 @@
 0.0.0.0 an.xemvtv.net
 0.0.0.0 api.nas.nct.vn
 0.0.0.0 apinas.nct.vn
+0.0.0.0 banhtv.org
 0.0.0.0 banner.5giay.vn
 0.0.0.0 bgadx.com
 0.0.0.0 clevernet.vn
@@ -1157,10 +1223,12 @@
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 delivery.vungtv.com
 0.0.0.0 deltago.com
+0.0.0.0 demopage.me
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 events.vungtv.com
 0.0.0.0 fptad.com
 0.0.0.0 go.vnecdn.com
+0.0.0.0 landingpagelagi.vn
 0.0.0.0 m.clevernet.vn
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
@@ -1175,9 +1243,11 @@
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 quangcao247.com.vn
 0.0.0.0 realclick.vn
+0.0.0.0 sbbanner.com
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
+0.0.0.0 toppage.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tvnotice.kg.garena.vn
@@ -1186,12 +1256,16 @@
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
+0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.alivar.vn
+0.0.0.0 www.banhtv.org
 0.0.0.0 www.clevernet.vn
 0.0.0.0 www.delecpuzz.com
+0.0.0.0 www.landingpagelagi.vn
 0.0.0.0 www.microad.vn
 0.0.0.0 www.realclick.vn
+0.0.0.0 www.sbbanner.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
 # --- Block trackingVN ---
