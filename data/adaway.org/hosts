@@ -2666,16 +2666,6 @@
 # [aimatch.com]
 127.0.0.1 aimatch.com
 
-# [airbrake.io]
-127.0.0.1 airbrake.io
-127.0.0.1 airbrake-github.airbrake.io
-127.0.0.1 airbrake-gitlab.airbrake.io
-127.0.0.1 api.airbrake.io
-127.0.0.1 ssljscdn.airbrake.io
-
-# [aircanada.ca]
-127.0.0.1 glassbox.aircanada.ca
-
 # [airpush.com]
 127.0.0.1 airpush.com
 127.0.0.1 ab.airpush.com
@@ -3716,9 +3706,6 @@
 # [areametrics.com]
 127.0.0.1 api.areametrics.com
 127.0.0.1 production-api.areametrics.com
-
-# [arengu.com]
-127.0.0.1 sdk.arengu.com
 
 # [areyouahuman.com]
 127.0.0.1 dptr.areyouahuman.com
@@ -9064,9 +9051,6 @@
 127.0.0.1 ci-first.iovation.com
 127.0.0.1 ci-mpsnare.iovation.com
 127.0.0.1 first.iovation.com
-
-# [ip-api.com]
-127.0.0.1 ip-api.com
 
 # [ipass.com]
 127.0.0.1 logservices.ipass.com
