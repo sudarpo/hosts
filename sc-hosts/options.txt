@@ -1,3 +1,11 @@
+
+# Generate and replace
+python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output sc-hosts 
+
+copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
+
+
+##############################################
 python updateHostsFile.py --extensions porn fakenews gambling social --noupdate --output sc-hosts
 
 python updateHostsFile.py --extensions porn fakenews gambling social --noupdate --output sc-hosts
@@ -10,3 +18,8 @@ python updateHostsFile.py --auto --extensions porn fakenews gambling social --no
 python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output sc-hosts 
 
 python updateHostsFile.py --auto --extensions porn fakenews gambling --output sc-hosts 
+
+# Generate and replace
+python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output sc-hosts 
+
+copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
