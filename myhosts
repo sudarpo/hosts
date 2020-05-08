@@ -1,0 +1,27 @@
+# Custom host records are listed here.
+127.0.0.1  public.lab
+127.0.0.1  service.lab
+127.0.0.1  intranet.lab
+127.0.0.1  report.lab
+127.0.0.1  esvc.lab
+127.0.0.1  public.esvc.lab
+127.0.0.1  intranet.esvc.lab
+127.0.0.1  sc.lab
+
+127.0.0.1  agency.lab
+127.0.0.1  public.agency.lab
+127.0.0.1  intranet.agency.lab
+127.0.0.1  agency.gov.sg
+127.0.0.1  intranet.agency.gov.sg
+127.0.0.1  public.agency.gov.sg
+127.0.0.1  esvc.agency.gov.sg
+
+127.0.0.1  intranet.local
+127.0.0.1  public.local
+127.0.0.1  service.local
+127.0.0.1  sc.local
+127.0.0.1  public.sc
+127.0.0.1  intranet.sc
+127.0.0.1  intranet.com
+127.0.0.1  public.com
+# End of custom host records.

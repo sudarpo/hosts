@@ -1,7 +1,7 @@
 .idea
 *.iml
-myhosts
-blacklist
+# myhosts
+# blacklist
 # whitelist
 readmeData.json
 hosts-*
