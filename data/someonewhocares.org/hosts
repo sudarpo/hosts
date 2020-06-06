@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 23 Apr 2020 at 07:31:06 GMT
+# Last updated: Tue, 02 Jun 2020 at 01:27:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2454,8 +2454,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 it.globalsweeps.info
 0.0.0.0 itwititer.com
 0.0.0.0 ity.elusmedic.ru
-0.0.0.0 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-0.0.0.0 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 jajajaj-thats-you-really.com
 0.0.0.0 janezk.50webs.co
 0.0.0.0 jat01.iwantyourightnow.info
@@ -2886,6 +2884,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sussi.cressoft.com.pk
 0.0.0.0 sverd.net
 0.0.0.0 sweet55ium55.com
+0.0.0.0 syndication.exosrv.com
 0.0.0.0 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
@@ -2984,6 +2983,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wenda.io
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westerdayeol.site
+0.0.0.0 wetransf.online
 0.0.0.0 wewillrocknow.com
 0.0.0.0 whenupgrade.yourmainsourceforcontentprepared.win
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
@@ -3098,8 +3098,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
 0.0.0.0 www.irony.world
-0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
@@ -8011,6 +8009,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cxoadfarm.dyndns.info
 0.0.0.0 cxtad.specificmedia.com
 0.0.0.0 cyber-incentives.com
+0.0.0.0 cyberprotection.pro
 0.0.0.0 cz.bbelements.com
 0.0.0.0 cz8.clickzs.com
 0.0.0.0 czilladx.com
@@ -8238,7 +8237,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
 0.0.0.0 edge.quantserve.com
-0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edirect.hotkeys.com
 0.0.0.0 edu-offer.com
@@ -10265,6 +10263,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 promotion.partnercash.com
 0.0.0.0 promotions.sportingbet.com
 0.0.0.0 promoviral.com
+0.0.0.0 properatersch.fun
 0.0.0.0 protect-your-privacy.net
 0.0.0.0 protection.ALpolice.com
 0.0.0.0 protection.ASpolice.com
