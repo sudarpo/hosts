@@ -1,6 +1,7 @@
 
-# Generate and replace
+# Generate
 python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output sc-hosts
+python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --compress --output sc-hosts
 
 copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
 
