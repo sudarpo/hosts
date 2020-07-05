@@ -5201,10 +5201,6 @@
 # [cn.com]
 127.0.0.1 id1.cn.com
 
-# [cnbc.com]
-127.0.0.1 fm.cnbc.com
-127.0.0.1 mps.cnbc.com
-
 # [cnn.com]
 127.0.0.1 agility.cnn.com
 127.0.0.1 mms.cnn.com
@@ -5348,10 +5344,6 @@
 
 # [consoliads.com]
 127.0.0.1 sdk.consoliads.com
-
-# [constantcontact.com]
-127.0.0.1 files.constantcontact.com
-127.0.0.1 imgssl.constantcontact.com
 
 # [constintptr.com]
 127.0.0.1 constintptr.com
@@ -5507,9 +5499,6 @@
 # [crispmedia.com]
 127.0.0.1 crispmedia.com
 
-# [crispwireless.com]
-127.0.0.1 crispwireless.com
-
 # [criteo.com]
 127.0.0.1 criteo.com
 127.0.0.1 ads.as.criteo.com
@@ -5635,12 +5624,6 @@
 127.0.0.1 creatives.crossinstall.io
 127.0.0.1 step-service.crossinstall.io
 
-# [crossrider.com]
-127.0.0.1 crossrider.com
-
-# [crowdin.com]
-127.0.0.1 api.crowdin.com
-
 # [crowdtangle.com]
 127.0.0.1 api.crowdtangle.com
 127.0.0.1 apps.crowdtangle.com
@@ -5707,9 +5690,6 @@
 
 # [cuebiq.com]
 127.0.0.1 in.cuebiq.com
-
-# [curalate.com]
-127.0.0.1 cdn.curalate.com
 
 # [customer.io]
 127.0.0.1 track.customer.io
@@ -5779,10 +5759,6 @@
 # [datahc.com]
 127.0.0.1 brands.datahc.com
 127.0.0.1 redirect.datahc.com
-
-# [datapipe.com]
-127.0.0.1 cloud.datapipe.com
-127.0.0.1 one.datapipe.com
 
 # [datasphere.com]
 127.0.0.1 cloud.datasphere.com
@@ -6776,8 +6752,6 @@
 127.0.0.1 cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
 127.0.0.1 cbola-psa.us-east-1.elasticbeanstalk.com
 127.0.0.1 cloud-graphql-live.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-api-prod.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 127.0.0.1 ddm-analystic-pro2.us-east-1.elasticbeanstalk.com
 127.0.0.1 dhg-logging.us-east-1.elasticbeanstalk.com
 127.0.0.1 ei-event-collector.us-east-1.elasticbeanstalk.com
@@ -11044,6 +11018,7 @@
 
 # [miui.com]
 127.0.0.1 tracking.intl.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 fcanr.tracking.miui.com
@@ -18363,6 +18338,9 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 
+# [xiaomi.net]
+127.0.0.1 api.device.xiaomi.net
+
 # [xiaoying.co]
 127.0.0.1 ad-sdk.altamob.xiaoying.co
 
@@ -18755,9 +18733,6 @@
 127.0.0.1 api.sdk.zadn.vn
 127.0.0.1 log.sdk.zadn.vn
 127.0.0.1 zalo-ads-td.zadn.vn
-
-# [zalo.me]
-127.0.0.1 shop.zalo.me
 
 # [zaloapp.com]
 127.0.0.1 ads.zaloapp.com
