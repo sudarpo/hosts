@@ -13,11 +13,14 @@ RUN pip3 install --user -r requirements.txt
 
 # RUN python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output output
 # CMD ["python", "updateHostsFile.py", "--auto", "--extensions", "porn", "fakenews", "gambling", "--noupdate", "--compress", "--output", "output"]
-CMD ["python", "updateHostsFileD.py"]
+# CMD ["python", "updateHostsFileD.py"]
 
+ENTRYPOINT ["python", "updateHostsFile.py", "--auto", "--output", "output", "--extensions", "porn", "fakenews", "gambling"]
+
+# Sample usage
 # build docker image  
-# docker build -t sudarpo/sb-hosts:1 .
+# docker build -t sudarpo/sb-hosts:1.0 .
 
 # run and bind volume
-# docker container run -v C:\somefolder\output:/work/output -e COMPRESS=1  sudarpo/sb-hosts:1
-# docker container run -v C:\somefolder\output:/work/output -e COMPRESS=1 -e UPDATE=1 sudarpo/sb-hosts:1
+# docker container run -v C:\_SC\files\mine\test-hosts:/work/output --rm sudarpo/sb-hosts:1.0 --noupdate
+# docker container run -v C:\_SC\files\mine\test-hosts:/work/output --rm sudarpo/sb-hosts:1.0 --noupdate --compress
