@@ -1,6 +1,5 @@
 # Domains added below will be ignored, For example:
 # SC-IGNORE-LIST
-
 data.microsoft.com
 telemetry.microsoft.com
 smartscreen.microsoft.com
@@ -11,4 +10,6 @@ en25.com
 whatsapp.com
 whatsapp.net
 
+sdk.split.io
+events.split.io
 # SC-IGNORE-LIST

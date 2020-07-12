@@ -1,8 +1,5 @@
-# blacklist
-# Extra blocking
-
+# blacklist # Extra blocking
 0.0.0.0 bb3b3.ru
-
 0.0.0.0 ads.jeded.com
 0.0.0.0 app2.ylapp88.com
 0.0.0.0 sdapp88.com
@@ -10,29 +7,29 @@
 0.0.0.0 ads8.kompasads.com
 0.0.0.0 adsimg.kompas.com
 
-0.0.0.0 dolohen.com  #yts
-0.0.0.0 gleedaik.net #yts
-0.0.0.0 baipagid.com #yts
-0.0.0.0 wauzoust.com #yts
-0.0.0.0 pheergar.com #yts
+# yts
+0.0.0.0 dolohen.com
+0.0.0.0 gleedaik.net
+0.0.0.0 baipagid.com
+0.0.0.0 wauzoust.com
+0.0.0.0 pheergar.com
+0.0.0.0 blockchaintop.nl
+0.0.0.0 smarttopchain.nl
+0.0.0.0 topblockchainsolutions.nl
+# yts
 
 0.0.0.0 players.brightcove.net
 0.0.0.0 edge.api.brightcove.com
-
 0.0.0.0 sofia.trustx.org
-
 0.0.0.0 rubiconproject.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 stats.aws.rubiconproject.com
-
 0.0.0.0 sync.ipredictive.com
-
 0.0.0.0 mb.moatads.com
 0.0.0.0 sejs.moatads.com
-
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 udc.yahoo.com
