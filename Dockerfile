@@ -11,11 +11,12 @@ RUN mkdir /work/output
 
 RUN pip3 install --user -r requirements.txt
 
-# RUN python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output output
+# RUN python updateHostsFile.py --auto --nogendata --extensions porn fakenews gambling --noupdate --output output
 # CMD ["python", "updateHostsFile.py", "--auto", "--extensions", "porn", "fakenews", "gambling", "--noupdate", "--compress", "--output", "output"]
 # CMD ["python", "updateHostsFileD.py"]
 
-ENTRYPOINT ["python", "updateHostsFile.py", "--auto", "--output", "output", "--extensions", "porn", "fakenews", "gambling"]
+ENTRYPOINT ["python", "updateHostsFile.py", "--auto", "--nogendata", "--output", "output", "--extensions", "porn", "fakenews", "gambling"]
+CMD ["--compress"]
 
 # Sample usage
 # build docker image  
