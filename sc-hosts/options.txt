@@ -3,6 +3,9 @@
 python updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --output sc-hosts
 python updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --compress --output sc-hosts
 
+python3 updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --output sc-hosts
+python3 updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --compress --output sc-hosts
+
 copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
 
 code C:\Windows\System32\drivers\etc
@@ -29,3 +32,8 @@ python updateHostsFile.py --auto --extensions porn fakenews gambling --output sc
 python updateHostsFile.py --auto --extensions porn fakenews gambling --noupdate --output sc-hosts 
 
 copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
+
+# mac
+sudo cp sc-hosts/hosts /private/etc/hosts
+
+sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder
