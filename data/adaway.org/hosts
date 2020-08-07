@@ -5037,12 +5037,6 @@
 127.0.0.1 analytics.clickdimensions.com
 127.0.0.1 analytics-au.clickdimensions.com
 127.0.0.1 analytics-eu.clickdimensions.com
-127.0.0.1 app.clickdimensions.com
-127.0.0.1 app-eu.clickdimensions.com
-127.0.0.1 elink.clickdimensions.com
-127.0.0.1 elinkeu.clickdimensions.com
-127.0.0.1 files.clickdimensions.com
-127.0.0.1 files-eu.clickdimensions.com
 
 # [clickfuse.com]
 127.0.0.1 clickfuse.com
@@ -6682,7 +6676,6 @@
 127.0.0.1 tags.msnbc.com.edgekey.net
 127.0.0.1 tags.nationwide.com.edgekey.net
 127.0.0.1 stats.nba.com.edgekey.net
-127.0.0.1 apis.playstove.com.edgekey.net
 127.0.0.1 beacon.securestudies.com.edgekey.net
 127.0.0.1 i16-tb.sgsnssdk.com.edgekey.net
 127.0.0.1 ib.snssdk.com.edgekey.net
@@ -6807,25 +6800,6 @@
 127.0.0.1 hb.emxdgt.com
 127.0.0.1 imp.emxdgt.com
 
-# [emxdigital.com]
-127.0.0.1 emxdigital.com
-
-# [en25.com]
-127.0.0.1 img02.en25.com
-127.0.0.1 img03.en25.com
-127.0.0.1 img04.en25.com
-127.0.0.1 img06.en25.com
-127.0.0.1 img07.en25.com
-
-# [engage.co]
-127.0.0.1 sdk.engage.co
-127.0.0.1 status.engage.co
-127.0.0.1 wapi.engage.co
-127.0.0.1 xdomain.engage.co
-
-# [engagebdr.com]
-127.0.0.1 engagebdr.com
-
 # [engageclick.com]
 127.0.0.1 turbo.engageclick.com
 
@@ -6869,20 +6843,11 @@
 127.0.0.1 w.ads2.eqads.com
 127.0.0.1 um2.eqads.com
 
-# [eqworks.com]
-127.0.0.1 eqworks.com
-
-# [esellerate.net]
-127.0.0.1 esellerate.net
-
 # [espn.com]
 127.0.0.1 log.espn.com
 
 # [estara.com]
 127.0.0.1 as00.estara.com
-
-# [estream.com]
-127.0.0.1 v3dev.estream.com
 
 # [et-code.ru]
 127.0.0.1 et-code.ru
@@ -7054,9 +7019,6 @@
 
 # [feng.com]
 127.0.0.1 yes1.feng.com
-
-# [fevo.com]
-127.0.0.1 sdk.fevo.com
 
 # [fgl.com]
 127.0.0.1 ads.fgl.com
@@ -13467,10 +13429,6 @@
 127.0.0.1 phunware.com
 127.0.0.1 analytics-api.phunware.com
 
-# [piano.io]
-127.0.0.1 piano.io
-127.0.0.1 publisher.piano.io
-
 # [picooapps.com]
 127.0.0.1 adsdk.picooapps.com
 
@@ -13579,9 +13537,6 @@
 
 # [playnomics.net]
 127.0.0.1 playnomics.net
-
-# [playstove.com]
-127.0.0.1 sdkweb.playstove.com
 
 # [playtem.com]
 127.0.0.1 sdk.playtem.com
@@ -14908,6 +14863,7 @@
 127.0.0.1 epicycle.aprod.scopely.io
 127.0.0.1 collector.scopely.io
 127.0.0.1 event.collector.scopely.io
+127.0.0.1 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 127.0.0.1 puck.scopely.io
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 segments.scopely.io
@@ -16905,14 +16861,6 @@
 # [tiny.cloud]
 127.0.0.1 rainmaker.tiny.cloud
 
-# [tinypass.com]
-127.0.0.1 api.tinypass.com
-127.0.0.1 api-v3.tinypass.com
-127.0.0.1 buy.tinypass.com
-127.0.0.1 cdn.tinypass.com
-127.0.0.1 fonts.tinypass.com
-127.0.0.1 id.tinypass.com
-
 # [tiqcdn.com]
 127.0.0.1 tiqcdn.com
 127.0.0.1 tags.tiqcdn.com
@@ -17388,7 +17336,9 @@
 127.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 127.0.0.1 tracking.adsx.unityads.unity3d.com
 127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 cdn.unityads.unity3d.com
+127.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn-creatives-highwinds-prd.unityads.unity3d.com
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 cdn-store-icons-highwinds-prd.unityads.unity3d.com
