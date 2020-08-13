@@ -43,4 +43,8 @@
 0.0.0.0 aliadvert.ru
 0.0.0.0 alexgorbatchev.com
 0.0.0.0 checkandgo.info
+
+# fouanalytics
+0.0.0.0 api.fouanalytics.com
+0.0.0.0 adsbydomain.fouanalytics.com
 # blacklist
