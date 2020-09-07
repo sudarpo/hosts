@@ -2,11 +2,13 @@
 # Generate
 python updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --output sc-hosts
 python updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --compress --output sc-hosts
+python updateHostsFile.py --auto --extensions porn fakenews gambling social --nogendata --noupdate --compress --output sc-hosts
 
 python3 updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --output sc-hosts
 python3 updateHostsFile.py --auto --extensions porn fakenews gambling --nogendata --noupdate --compress --output sc-hosts
 
 copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
+ipconfig /flushdns
 
 code C:\Windows\System32\drivers\etc
 start C:\Windows\System32\drivers\etc

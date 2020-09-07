@@ -8,5 +8,5 @@ hosts-*
 /web.config
 /__pycache__
 /node_modules
-sc-hosts/
+sc-hosts/hosts
 data/
