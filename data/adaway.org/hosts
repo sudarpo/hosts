@@ -4902,8 +4902,6 @@
 127.0.0.1 ssum-sec.casalemedia.com.edgekey.net
 127.0.0.1 convertexperiments.com.edgekey.net
 127.0.0.1 cdn-3.convertexperiments.com.edgekey.net
-127.0.0.1 cookiebot.com.edgekey.net
-127.0.0.1 consent.cookiebot.com.edgekey.net
 127.0.0.1 cxense.com.edgekey.net
 127.0.0.1 cdn.cxense.com.edgekey.net
 127.0.0.1 doubleverify.com.edgekey.net
@@ -4986,7 +4984,6 @@
 127.0.0.1 push.io.edgekey.net
 127.0.0.1 san.push.io.edgekey.net
 127.0.0.1 moatpixel1.edgekey.net
-127.0.0.1 mobi.edgekey.net
 127.0.0.1 tracking.admarketplace.net.edgekey.net
 127.0.0.1 tag.aticdn.net.edgekey.net
 127.0.0.1 mobilepartner.avcdn.net.edgekey.net
@@ -8738,8 +8735,6 @@
 
 # [nicovideo.jp]
 127.0.0.1 ads.nicovideo.jp
-127.0.0.1 api.nicovideo.jp
-127.0.0.1 public.api.nicovideo.jp
 
 # [nielsen.com]
 127.0.0.1 awaf.answers.nielsen.com
@@ -8933,7 +8928,6 @@
 127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 allstate.sc.omtrdc.net
 127.0.0.1 att.sc.omtrdc.net
-127.0.0.1 audible.sc.omtrdc.net
 127.0.0.1 dsg.sc.omtrdc.net
 127.0.0.1 allstate.tt.omtrdc.net
 127.0.0.1 audible.tt.omtrdc.net
