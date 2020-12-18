@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Nov 2020 13:16:38 GMT
-# entries:        3563
+# last updated:   Mon, 14 Dec 2020 09:58:37 GMT
+# entries:        3561
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 07 Dec 2000 00:00:00
+# start date:    Tue, 19 Dec 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -75,7 +75,6 @@
 0.0.0.0 abandonedaction.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
-0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
@@ -185,6 +184,7 @@
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.tv2.no
+0.0.0.0 ad.universcine.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.virtual-nights.com
 0.0.0.0 ad.wavu.hu
@@ -440,7 +440,6 @@
 0.0.0.0 ads.bumq.com
 0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.canalblog.com
-0.0.0.0 ads.canoe.ca
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
 0.0.0.0 ads.cbc.ca
@@ -512,7 +511,6 @@
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
-0.0.0.0 ads.ft.com
 0.0.0.0 ads.gamecity.net
 0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
@@ -564,7 +562,6 @@
 0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.jpost.com
-0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.junctionbox.com
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.kabooaffiliates.com
@@ -752,7 +749,6 @@
 0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
-0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
@@ -764,7 +760,6 @@
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
-0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
 0.0.0.0 ads2.opensubtitles.org
@@ -783,7 +778,6 @@
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
-0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -1118,7 +1112,6 @@
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
-0.0.0.0 ato.mx
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
 0.0.0.0 attributiontracker.com
@@ -1152,6 +1145,7 @@
 0.0.0.0 balloontexture.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
+0.0.0.0 banner.ad.nu
 0.0.0.0 banner.ambercoastcasino.com
 0.0.0.0 banner.buempliz-online.ch
 0.0.0.0 banner.casino.net
@@ -1413,6 +1407,7 @@
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.cartsguru.io
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
@@ -1553,7 +1548,6 @@
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creatives.livejasmin.com
-0.0.0.0 credishe.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
@@ -1726,6 +1720,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 espn.com.ssl.sc.omtrdc.net
 0.0.0.0 estat.com
+0.0.0.0 esty.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
@@ -1960,7 +1955,6 @@
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
-0.0.0.0 hitttenevtanin.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
@@ -2015,7 +2009,6 @@
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
-0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2088,12 +2081,12 @@
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
+0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
-0.0.0.0 jaizouji.com
 0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
@@ -2206,6 +2199,7 @@
 0.0.0.0 liverail.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lkqd.com
+0.0.0.0 lnks.gd
 0.0.0.0 loading321.com
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
@@ -2267,6 +2261,7 @@
 0.0.0.0 mas.sector.sk
 0.0.0.0 massivemark.com
 0.0.0.0 matchcraft.com
+0.0.0.0 materialmoon.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.activate.cz
@@ -2361,7 +2356,6 @@
 0.0.0.0 mobperads.net
 0.0.0.0 modernpricing.com
 0.0.0.0 modifyeyes.com
-0.0.0.0 moggattice.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 monarchads.com
@@ -2687,6 +2681,8 @@
 0.0.0.0 proper.io
 0.0.0.0 props.id
 0.0.0.0 prosper.on-line-casino.ca
+0.0.0.0 protectcrev.com
+0.0.0.0 protectsubrev.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
 0.0.0.0 provexia.com
@@ -2707,6 +2703,7 @@
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
 0.0.0.0 puffyloss.com
+0.0.0.0 puffypaste.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
 0.0.0.0 pushame.com
@@ -2752,6 +2749,7 @@
 0.0.0.0 railwayreason.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
+0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-links.de
@@ -2817,17 +2815,18 @@
 0.0.0.0 resonate.com
 0.0.0.0 responsiveads.com
 0.0.0.0 retargeter.com
+0.0.0.0 revcatch.com
 0.0.0.0 revcontent.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revive.docmatic.org
-0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
 0.0.0.0 revlift.io
+0.0.0.0 revprotect.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 reyden-x.com
@@ -2841,7 +2840,6 @@
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
-0.0.0.0 ritzysponge.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
@@ -2959,7 +2957,6 @@
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simpli.fi
 0.0.0.0 sincerebuffalo.com
-0.0.0.0 sincerespy.com
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
@@ -3025,7 +3022,6 @@
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
-0.0.0.0 sportsad.net
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
@@ -3093,6 +3089,7 @@
 0.0.0.0 stepplane.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
+0.0.0.0 stiffgame.com
 0.0.0.0 storesurprise.com
 0.0.0.0 stormyachiever.com
 0.0.0.0 storygize.net
@@ -3256,6 +3253,7 @@
 0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
+0.0.0.0 track.unear.net
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com
@@ -3276,7 +3274,6 @@
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
-0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.ibxlink.com
@@ -3341,6 +3338,7 @@
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
+0.0.0.0 trust.titanhq.com
 0.0.0.0 trustx.org
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
